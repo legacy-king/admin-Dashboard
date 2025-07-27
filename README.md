@@ -20,3 +20,7 @@ This is a responsive **Admin Dashboard** project inspired by [The Odin Project](
 - CSS3 (CSS Grid and Flexbox)
 
 ## 📁 File Structure
+
+index.html
+styles.css
+README.md
